@@ -3,9 +3,9 @@
 
 >Muestra
 
-![Example](https://github.com/MariaDelCarmenHernandezDiaz/Marvel-DC/blob/master/1.jpg "SQLite")
-![Example](https://github.com/MariaDelCarmenHernandezDiaz/Marvel-DC/blob/master/2.jpg "SQLite")
-![Example](https://github.com/MariaDelCarmenHernandezDiaz/Marvel-DC/blob/master/3.jpg "SQLite")
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/DatosSQL/blob/master/1.jpg "SQLite")
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/DatosSQL/blob/master/2.jpg "SQLite")
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/DatosSQL/blob/master/3.jpg "SQLite")
 
 ***
 
